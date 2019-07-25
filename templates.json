@@ -1,1 +1,18 @@
-index
+{ "comment": "",
+
+"hub": {
+  "name": "hub.png",
+  "x": -4096,  "y": 2895,
+  "width": 235, "height": 80
+}
+
+,"gift": {
+  "name": "gift.png",
+  "x": 2266,  "y": -3799,
+  "width": 119, "height": 112
+}
+
+
+
+
+}
