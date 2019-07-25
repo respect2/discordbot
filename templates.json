@@ -5,6 +5,12 @@
   "x": -4096,  "y": 2895,
   "width": 235, "height": 80
 }
+ 
+,"zyron": {
+  "name": "zyron.png",
+  "x": 2178,  "y": -3819,
+  "width": 63, "height": 62
+}
 
 ,"gift": {
   "name": "gift.png",
