@@ -1,9 +1,9 @@
 { "comment": "",
 
-"hub": {
-  "name": "hub.png",
+"diss": {
+  "name": "diss.png",
   "x": -4096,  "y": 2895,
-  "width": 235, "height": 80
+  "width": 192, "height": 96
 }
  
 ,"zyron": {
