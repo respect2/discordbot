@@ -1,9 +1,9 @@
 { "comment": "",
 
 "diss": {
-  "name": "uvf.png",
-  "x": -4096,  "y": 2894,
-  "width": 101, "height": 66
+  "name": "diss.png",
+  "x": -3995,  "y": 2894,
+  "width": 150, "height": 64
 }
  
 ,"zyron": {
